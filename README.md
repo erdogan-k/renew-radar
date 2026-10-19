@@ -40,6 +40,11 @@ Built with **React 18**, **TypeScript**, **Vite**, **Tailwind CSS**, **Recharts*
   - First-time visitors can load clearly badged (`DEMO`) sample records and remove them anytime with a single click without affecting real user data.
 
 
+---
+
+## Screenshots
+
+![RenewRadar Financial Overview Dashboard](./docs/screenshots/dashboard-dark.png)
 
 ---
 
