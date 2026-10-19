@@ -56,6 +56,10 @@ Built with **React 18**, **TypeScript**, **Vite**, **Tailwind CSS**, **Recharts*
 
 ![RenewRadar Renewal Calendar](./docs/screenshots/calendar-view.png)
 
+### Savings Planner
+
+![RenewRadar Savings Planner](./docs/screenshots/savings-planner.png)
+
 ---
 
 ## Architecture Overview
