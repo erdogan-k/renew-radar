@@ -39,18 +39,7 @@ Built with **React 18**, **TypeScript**, **Vite**, **Tailwind CSS**, **Recharts*
 - **Safe Demo Mode**:
   - First-time visitors can load clearly badged (`DEMO`) sample records and remove them anytime with a single click without affecting real user data.
 
----
 
-## Screenshots (Placeholders)
-
-> **Note:** The following entries are placeholders until production screenshots are captured and committed to `docs/screenshots/`.
-
-| View | Screenshot Placeholder |
-| :--- | :--- |
-| **Dashboard (Dark Theme)** | `<!-- Placeholder: docs/screenshots/dashboard-dark.png -->` _[Placeholder: Financial Overview showing currency-isolated metrics, upcoming renewals, and 12-month cash-flow projection]_ |
-| **Subscriptions Directory** | `<!-- Placeholder: docs/screenshots/subscriptions-list.png -->` _[Placeholder: Multi-filter subscription table with normalized monthly estimates and quick actions]_ |
-| **Renewal Calendar** | `<!-- Placeholder: docs/screenshots/calendar-view.png -->` _[Placeholder: Monthly renewal calendar with daily currency totals and trial ending badges]_ |
-| **Savings Planner** | `<!-- Placeholder: docs/screenshots/savings-planner.png -->` _[Placeholder: Hypothetical annual savings calculator and cancellation candidate list]_ |
 
 ---
 
