@@ -52,6 +52,10 @@ Built with **React 18**, **TypeScript**, **Vite**, **Tailwind CSS**, **Recharts*
 
 ![RenewRadar Subscriptions Directory](./docs/screenshots/subscriptions-list.png)
 
+### Renewal Calendar
+
+![RenewRadar Renewal Calendar](./docs/screenshots/calendar-view.png)
+
 ---
 
 ## Architecture Overview
