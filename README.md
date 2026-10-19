@@ -44,7 +44,13 @@ Built with **React 18**, **TypeScript**, **Vite**, **Tailwind CSS**, **Recharts*
 
 ## Screenshots
 
+### Financial Overview (Dashboard)
+
 ![RenewRadar Financial Overview Dashboard](./docs/screenshots/dashboard-dark.png)
+
+### Subscriptions Directory
+
+![RenewRadar Subscriptions Directory](./docs/screenshots/subscriptions-list.png)
 
 ---
 
